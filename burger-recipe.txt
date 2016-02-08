@@ -1,0 +1,8 @@
+burger
+
+1. put meat on bun 
+2. put cheese and bacon on it
+3. salad, tomatoes or onions are optional 
+4. put bun on top
+
+Voila! Ein Burger!
